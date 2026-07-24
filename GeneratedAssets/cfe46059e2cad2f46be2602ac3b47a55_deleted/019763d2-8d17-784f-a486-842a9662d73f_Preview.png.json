@@ -1,0 +1,10 @@
+{
+    "asset": "cfe46059e2cad2f46be2602ac3b47a55",
+    "fileName": "019763d2-8d17-784f-a486-842a9662d73f_Preview.png",
+    "prompt": "Ice material with reflective and translucent qualities, capable of showing shadows cast onto it by other objects.",
+    "negativePrompt": "",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "customSeed": 1525673750,
+    "w3CTraceId": "9c959d46880d130e8a61d24afc8758a1",
+    "refinementMode": "Generation"
+}

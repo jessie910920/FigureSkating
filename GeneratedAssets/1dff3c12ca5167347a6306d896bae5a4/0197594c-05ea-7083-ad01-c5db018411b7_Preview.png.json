@@ -1,0 +1,10 @@
+{
+    "asset": "1dff3c12ca5167347a6306d896bae5a4",
+    "fileName": "0197594c-05ea-7083-ad01-c5db018411b7_Preview.png",
+    "prompt": "wood material",
+    "negativePrompt": "太細的紋理",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "customSeed": 1946708079,
+    "w3CTraceId": "56e79938e0ce0b8681ae2d0fbcd706d6",
+    "refinementMode": "Generation"
+}

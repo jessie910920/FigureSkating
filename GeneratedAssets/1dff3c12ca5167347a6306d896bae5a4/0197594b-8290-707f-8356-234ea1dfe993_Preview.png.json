@@ -1,0 +1,10 @@
+{
+    "asset": "1dff3c12ca5167347a6306d896bae5a4",
+    "fileName": "0197594b-8290-707f-8356-234ea1dfe993_Preview.png",
+    "prompt": "木頭紋理的材質",
+    "negativePrompt": "太細的紋理",
+    "model": "575ecf67-4425-4939-97b9-5e138b8ee234",
+    "customSeed": 1594919173,
+    "w3CTraceId": "bca86091cb2528847c03134f1f9f549b",
+    "refinementMode": "Generation"
+}
